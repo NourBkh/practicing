@@ -9,7 +9,5 @@ else
 echo "$EXISTS does not exist" >>user_report.log
 fi
 done < "$usersfile"
-while read nour; do 
-echo "hello nour"
-done
+read nour
    
