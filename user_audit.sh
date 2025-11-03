@@ -9,5 +9,4 @@ else
 echo "$EXISTS does not exist" >>user_report.log
 fi
 done < "$usersfile"
-read nour
    
