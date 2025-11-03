@@ -10,8 +10,14 @@ echo "$EXISTS does not exist" >>user_report.log
 fi
 done < "$usersfile"
 <<<<<<< HEAD
+<<<<<<< HEAD
 read var
 =======
 
 >>>>>>> 2986b42 (Add user_audit.sh to main for merge conflict simulation)
+=======
+while read nour; do 
+echo "hello nour"
+done
+>>>>>>> c174d4f (adding more code)
    
