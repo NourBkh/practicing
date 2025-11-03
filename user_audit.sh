@@ -11,4 +11,3 @@ fi
 done < "$usersfile"
 read var
 
-
